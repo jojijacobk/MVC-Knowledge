@@ -16,6 +16,10 @@ html {
     padding: 0 1rem;
 }
 
+h2 {
+    margin: 5rem;
+}
+
 form {
     display: flex;
     margin-bottom: 2rem;
