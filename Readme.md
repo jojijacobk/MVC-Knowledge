@@ -12,5 +12,5 @@ MVC architecture is used to attain Separation of Concerns in software developmen
 To demostrate the concept via code, I have written down a simple MVC based ToDo list app. Only the codes just enough to understand code organization of an MVC based application is written here. So it has only the option to add an item to list, avoiding other CRUD operations.
 
 There are two similar variants here.
-- **Simple MVC**: View is coupled with Controller in this case.
-- **MVC leveraging event dispatcher system**: Achieve decent amount of decoupling between View and Controller by using event dispatchment.
+- [Simple MVC](simple-mvc): View is coupled with Controller in this case.
+- [MVC leveraging event dispatcher system](mvc-leveraging-event-dispatcher): Achieve decent amount of decoupling between View and Controller by using event dispatchment.
